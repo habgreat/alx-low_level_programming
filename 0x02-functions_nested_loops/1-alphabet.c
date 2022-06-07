@@ -1,4 +1,4 @@
-#include "main.h"
+#include "main.c"
 /**
  * print_alphabet - check the code for main
  * Return: Always 0.
